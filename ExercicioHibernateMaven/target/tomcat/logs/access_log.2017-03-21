@@ -1,0 +1,1 @@
+0:0:0:0:0:0:0:1 - - [21/Mar/2017:22:20:17 -0300] "GET /SalvarPincel?cor=azul&fab=pilot&num=4242 HTTP/1.1" 200 32 http-bio-8080-exec-1 1280
